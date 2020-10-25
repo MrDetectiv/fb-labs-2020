@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import collections, re, math
 
 
@@ -39,9 +38,9 @@ def to_excess(entropia):
     return 1 - (entropia / math.log(32, 2))
 
 
-a = ord("a")
+a = ord('а')
 alpha_bet = ''.join([chr(i) for i in range(a, a+6)] + [chr(a+33)] + [chr(i) for i in range(a+6, a+32)])
-file = open("input.txt", "r", encoding="utf-8").read()
+file = open('input.txt', 'r', encoding='utf-8').read()
 file = file.lower()
 full_alpha_bet = [alpha_bet, alpha_bet + " "]
 
