@@ -40,7 +40,7 @@ def to_excess(entropia):
 
 a = ord('а')
 alpha_bet = ''.join([chr(i) for i in range(a, a+6)] + [chr(a+33)] + [chr(i) for i in range(a+6, a+32)])
-file = open('input.txt', 'r', encoding='utf-8').read()
+file = open('result.txt', 'r', encoding='utf-8').read()
 file = file.lower()
 full_alpha_bet = [alpha_bet, alpha_bet + " "]
 
@@ -68,7 +68,8 @@ for ind in range(2):
         el = '%.5f' % el
         value_word[i] = el
 
-    print(value_word, "\n")
+    for i in value_word:
+        print(i, value_word[i], end="")
 
     for i in value_word:
         el = float(value_word[i]) / 100
@@ -95,7 +96,8 @@ for ind in range(2):
         fr = '%.5f' % fr
         amount_bigram[i] = fr
 
-    print(amount_bigram)
+    for i in amount_bigram:
+        print(i, amount_bigram[i], end="")
 
     for i in amount_bigram:
         fr = float(amount_bigram[i]) / 100
@@ -115,7 +117,8 @@ for ind in range(2):
         fr = '%.5f' % fr
         amount_r_bigram[i] = fr
 
-    print(amount_r_bigram)
+    for i in  amount_r_bigram:
+        print(i,  amount_r_bigram[i], end="")
 
     for i in amount_r_bigram:
         fr = float(amount_r_bigram[i]) / 100
