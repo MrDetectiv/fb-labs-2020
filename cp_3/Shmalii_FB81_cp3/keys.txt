@@ -1,0 +1,9 @@
+(40, 921)  -> Error! Incorrect entropy!
+(96, 178)  -> Error! Incorrect entropy!
+(315, 78)  -> Error! Incorrect entropy!
+(646, 759)  -> Error! Incorrect entropy!
+(920, 559)  -> Error! Incorrect entropy!
+(41, 0)  -> Error! Incorrect entropy!
+(811, 644)  -> Error! Incorrect entropy!
+(150, 364)  -> Error! Incorrect entropy!
+(865, 799)  -> Correct key

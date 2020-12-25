@@ -1,0 +1,187 @@
+-> X: ('ст', 'но'); Y: ('хк', 'ек');
+   a: 124; b: 351
+      error: inverse element for a not found
+
+-> X: ('ст', 'но'); Y: ('хк', 'вх');
+   a: 470; b: 137
+      error: ['т', 'л', 'о', 'и', 'э', 'ь'] doesn't contain letters o a and e
+
+-> X: ('ст', 'но'); Y: ('хк', 'пн');
+   a: 69; b: 535
+      error: ['т', 'ш', 'г', 'н', 'ж', 'щ'] doesn't contain letters o a and e
+
+-> X: ('ст', 'но'); Y: ('хк', 'вю');
+   a: 530; b: 111
+      error: ['т', 'ы', 'б', 'о', 'у', 'ц'] doesn't contain letters o a and e
+
+-> X: ('ст', 'но'); Y: ('ек', 'вх');
+   a: 346; b: 912
+      error: ['т', 'о', 'л', 'к', 'а', 'у'] doesn't contain letters o a and e
+
+-> X: ('ст', 'но'); Y: ('ек', 'пн');
+   a: 906; b: 349
+      error: ['т', 'н', 'ш', 'ж', 'о', 'г'] doesn't contain letters o a and e
+
+-> X: ('ст', 'но'); Y: ('ек', 'вю');
+   a: 406; b: 886
+      error: ['т', 'р', 'я', 'у', 'ц', 'ы'] doesn't contain letters o a and e
+
+-> X: ('ст', 'но'); Y: ('вх', 'пн');
+   a: 560; b: 481
+      error: ['э', 'т', 'ц', 'ь', 'о', 'ж'] doesn't contain letters o a and e
+
+-> X: ('ст', 'но'); Y: ('вх', 'вю');
+   a: 60; b: 57
+      error: ['и', 'к', 'о', 'т', 'ц', 'я'] doesn't contain letters o a and e
+
+-> X: ('ст', 'но'); Y: ('пн', 'вю');
+   a: 461; b: 54
+      error: ['л', 'р', 'м', 'о', 'т', 'б'] doesn't contain letters o a and e
+
+-> X: ('ст', 'то'); Y: ('хк', 'ек');
+   a: 124; b: 351
+      error: inverse element for a not found
+
+-> X: ('ст', 'то'); Y: ('хк', 'вх');
+   a: 904; b: 13
+      error: ['т', 'о', 'к', 'л', 'г', 'ь'] doesn't contain letters o a and e
+
+-> X: ('ст', 'то'); Y: ('хк', 'пн');
+   a: 100; b: 938
+      error: ['т', 'ш', 'н', 'г', 'щ', 'б'] doesn't contain letters o a and e
+
+-> X: ('ст', 'то'); Y: ('хк', 'вю');
+   a: 406; b: 421
+      error: ['т', 'х', 'ы', 'я', 'б', 'ш'] doesn't contain letters o a and e
+
+-> X: ('ст', 'то'); Y: ('ек', 'вх');
+   a: 780; b: 788
+      error: ['т', 'о', 'л', 'а', 'г', 'э'] doesn't contain letters o a and e
+
+-> X: ('ст', 'то'); Y: ('ек', 'пн');
+   a: 937; b: 752
+      error: ['т', 'н', 'ш', 'щ', 'ж', 'г'] doesn't contain letters o a and e
+
+-> X: ('ст', 'то'); Y: ('ек', 'вю');
+   a: 282; b: 235
+      error: ['т', 'ы', 'б', 'у', 'о', 'х'] doesn't contain letters o a and e
+
+-> X: ('ст', 'то'); Y: ('вх', 'пн');
+   a: 157; b: 47
+      error: ['э', 'т', 'ь', 'ж', 'с', 'щ'] doesn't contain letters o a and e
+
+-> X: ('ст', 'то'); Y: ('вх', 'вю');
+   a: 463; b: 491
+      error: ['и', 'т', 'к', 'о', 'ц', 'у'] doesn't contain letters o a and e
+
+-> X: ('ст', 'то'); Y: ('пн', 'вю');
+   a: 306; b: 922
+      error: ['л', 'р', 'м', 'т', 'в', 'о'] doesn't contain letters o a and e
+
+-> X: ('ст', 'на'); Y: ('хк', 'ек');
+   a: 775; b: 165
+      error: inverse element for a not found
+
+-> X: ('ст', 'на'); Y: ('хк', 'вх');
+   a: 938; b: 703
+      error: ['т', 'в', 'а', 'б', 'ч', 'я'] doesn't contain letters o a and e
+
+-> X: ('ст', 'на'); Y: ('хк', 'пн');
+   a: 563; b: 385
+      error: ['т', 'о', 'л', 'ь', 'г', 'а'] doesn't contain letters o a and e
+
+-> X: ('ст', 'на'); Y: ('хк', 'вю');
+   a: 383; b: 463
+      error: ['т', 'у', 'з', 'м', 'а', 'р'] doesn't contain letters o a and e
+
+-> X: ('ст', 'на'); Y: ('ек', 'вх');
+   a: 163; b: 703
+      error: ['т', 'в', 'э', 'а', 'б', 'н'] doesn't contain letters o a and e
+
+-> X: ('ст', 'на'); Y: ('ек', 'пн');
+   a: 749; b: 385
+      error: ['т', 'о', 'л', 'г', 'э', 'а'] doesn't contain letters o a and e
+
+-> X: ('ст', 'на'); Y: ('ек', 'вю');
+   a: 569; b: 463
+      error: ['т', 'у', 'м', 'а', 'з', 'к'] doesn't contain letters o a and e
+
+-> X: ('ст', 'на'); Y: ('вх', 'пн');
+   a: 586; b: 726
+      error: ['б', 'ч', 'т', 'е', 'ю', 'д'] doesn't contain letters o a and e
+
+-> X: ('ст', 'на'); Y: ('вх', 'вю');
+   a: 406; b: 804
+      error: ['р', 'д', 'н', 'т', 'я', 'щ'] doesn't contain letters o a and e
+
+-> X: ('ст', 'на'); Y: ('пн', 'вю');
+   a: 781; b: 556
+      error: ['в', 'ц', 'й', 'т', 'у', 'е'] doesn't contain letters o a and e
+
+-> X: ('ст', 'ен'); Y: ('хк', 'ек');
+   a: 868; b: 413
+      error: inverse element for a not found
+
+-> X: ('ст', 'ен'); Y: ('хк', 'вх');
+   a: 779; b: 868
+      error: ['т', 'с', 'н', 'л', 'п', 'з'] doesn't contain letters o a and e
+
+-> X: ('ст', 'ен'); Y: ('хк', 'пн');
+   a: 235; b: 399
+      error: ['т', 'н', 'д', 'з', 'к', 'ю'] doesn't contain letters o a and e
+
+-> X: ('ст', 'ен'); Y: ('хк', 'вю');
+   a: 858; b: 97
+      error: ['т', 'ж', 'ф', 'ы', 'н', 'о'] doesn't contain letters o a and e
+
+-> X: ('ст', 'ен'); Y: ('ек', 'вх');
+   a: 872; b: 620
+      error: ['т', 'н', 'с', 'з', 'п', 'х'] doesn't contain letters o a and e
+
+-> X: ('ст', 'ен'); Y: ('ек', 'пн');
+   a: 328; b: 151
+      error: ['т', 'к', 'з', 'д', 'у', 'в'] doesn't contain letters o a and e
+
+-> X: ('ст', 'ен'); Y: ('ек', 'вю');
+   a: 951; b: 810
+      error: ['т', 'н', 'ф', 'ж', 'о', 'к'] doesn't contain letters o a and e
+
+-> X: ('ст', 'ен'); Y: ('вх', 'пн');
+   a: 417; b: 575
+      error: ['п', 'т', 'н', 'ч', 'э', 'г'] doesn't contain letters o a and e
+
+-> X: ('ст', 'ен'); Y: ('вх', 'вю');
+   a: 79; b: 273
+      error: ['х', 'т', 'и', 'н', 'о', 'ч'] doesn't contain letters o a and e
+
+-> X: ('ст', 'ен'); Y: ('пн', 'вю');
+   a: 623; b: 176
+      error: ['с', 'а', 'ь', 'н', 'ф', 'т'] doesn't contain letters o a and e
+
+-> X: ('но', 'ст'); Y: ('хк', 'ек');
+   a: 837; b: 475
+      error: inverse element for a not found
+
+-> X: ('но', 'ст'); Y: ('хк', 'вх');
+   a: 491; b: 607
+      error: ['о', 'т', 'д', 'ц', 'х', 'ю'] doesn't contain letters o a and e
+
+-> X: ('но', 'ст'); Y: ('хк', 'пн');
+   a: 892; b: 604
+      error: ['о', 'и', 'у', 'т', 'в', 'ю'] doesn't contain letters o a and e
+
+-> X: ('но', 'ст'); Y: ('хк', 'вю');
+   a: 431; b: 641
+      error: entropy is not in (4.15; 4.55): 4.817535548981029
+
+-> X: ('но', 'ст'); Y: ('ек', 'вх');
+   a: 615; b: 297
+      error: ['о', 'т', 'х', 'б', 'ж', 'ю'] doesn't contain letters o a and e
+
+-> X: ('но', 'ст'); Y: ('ек', 'пн');
+   a: 55; b: 294
+      error: ['о', 'и', 'у', 'ю', 'ь', 'з'] doesn't contain letters o a and e
+
+-> X: ('но', 'ст'); Y: ('ек', 'вю');
+   a: 555; b: 331
+      plaintext: когдапожарныеисоседиушлилеоауфманосталсясдедушкойсполдингомдугласомитомомвсеонизадумчивосмотрелинадо...

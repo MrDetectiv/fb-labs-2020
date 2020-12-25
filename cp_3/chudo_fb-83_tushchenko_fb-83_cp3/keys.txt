@@ -1,0 +1,228 @@
+Key: (230, 89)
+found 'аь' in the text
+Key: (241, 821)
+found 'аь' in the text
+Key: (389, 885)
+found 'аь' in the text
+Key: (445, 156)
+found 'аь' in the text
+Key: (275, 550)
+found 'аь' in the text
+Key: (894, 506)
+found 'аь' in the text
+Key: (486, 875)
+found 'аь' in the text
+Key: (929, 651)
+found 'аь' in the text
+Key: (463, 917)
+found 'аь' in the text
+Key: (13, 151)
+key is ok
+Key: (336, 940)
+found 'аь' in the text
+Key: (666, 797)
+found 'аь' in the text
+Key: (11, 631)
+found 'оь' in the text
+Key: (159, 695)
+found 'аь' in the text
+Key: (215, 927)
+found 'аь' in the text
+Key: (619, 816)
+found 'аь' in the text
+Key: (211, 224)
+found 'аь' in the text
+Key: (654, 0)
+found 'аь' in the text
+Key: (511, 94)
+found 'аь' in the text
+Key: (834, 883)
+found 'аь' in the text
+Key: (203, 740)
+found 'аь' in the text
+Key: (950, 642)
+found 'аь' in the text
+Key: (148, 477)
+found 'аь' in the text
+Key: (204, 709)
+found 'аь' in the text
+Key: (342, 457)
+found 'аь' in the text
+Key: (553, 782)
+found 'аь' in the text
+Key: (35, 558)
+found 'аь' in the text
+Key: (450, 218)
+found 'аь' in the text
+Key: (323, 241)
+found 'аь' in the text
+Key: (653, 98)
+found 'аь' in the text
+Key: (802, 854)
+found 'оь' in the text
+Key: (813, 625)
+found 'аь' in the text
+Key: (56, 921)
+found 'аь' in the text
+Key: (750, 364)
+found 'аь' in the text
+Key: (408, 320)
+found 'аь' in the text
+Key: (443, 465)
+found 'аь' in the text
+Key: (127, 666)
+found 'аь' in the text
+Key: (638, 861)
+found 'оь' in the text
+Key: (330, 546)
+found 'иь' in the text
+Key: (746, 181)
+found 'аь' in the text
+Key: (757, 913)
+found 'аь' in the text
+Key: (905, 16)
+found 'оь' in the text
+Key: (307, 147)
+found 'аь' in the text
+Key: (926, 103)
+found 'аь' in the text
+Key: (518, 472)
+found 'аь' in the text
+Key: (758, 368)
+found 'аь' in the text
+Key: (308, 563)
+found 'аь' in the text
+Key: (631, 391)
+found 'оь' in the text
+No Solutions for equation:  -155 * x = 96 (mod 961)
+No Solutions for equation:  -155 * x = -180 (mod 961)
+No Solutions for equation:  -155 * x = 261 (mod 961)
+Key: (556, 258)
+found 'аь' in the text
+Key: (399, 379)
+found 'аь' in the text
+Key: (911, 217)
+found 'аь' in the text
+Key: (313, 684)
+found 'оь' in the text
+Key: (254, 301)
+found 'аь' in the text
+Key: (881, 234)
+found 'оь' in the text
+No Solutions for equation:  -155 * x = 447 (mod 961)
+No Solutions for equation:  -155 * x = 171 (mod 961)
+No Solutions for equation:  -155 * x = 612 (mod 961)
+Key: (787, 382)
+found 'аь' in the text
+Key: (630, 503)
+found 'аь' in the text
+Key: (181, 341)
+found 'аь' in the text
+Key: (106, 864)
+found 'аь' in the text
+Key: (47, 481)
+found 'оь' in the text
+Key: (674, 414)
+found 'оь' in the text
+No Solutions for equation:  -155 * x = -276 (mod 961)
+No Solutions for equation:  -155 * x = 165 (mod 961)
+Key: (804, 534)
+found 'аь' in the text
+Key: (355, 372)
+found 'аь' in the text
+Key: (902, 30)
+found 'аь' in the text
+Key: (568, 924)
+found 'оь' in the text
+No Solutions for equation:  -155 * x = 276 (mod 961)
+No Solutions for equation:  -155 * x = 441 (mod 961)
+Key: (157, 568)
+found 'аь' in the text
+Key: (512, 527)
+found 'аь' in the text
+Key: (59, 111)
+found 'оь' in the text
+Key: (627, 622)
+found 'аь' in the text
+No Solutions for equation:  -155 * x = -165 (mod 961)
+No Solutions for equation:  -155 * x = -441 (mod 961)
+Key: (606, 289)
+found 'аь' in the text
+Key: (449, 410)
+found 'аь' in the text
+Key: (393, 698)
+found 'оь' in the text
+Key: (334, 315)
+found 'аь' in the text
+Key: (634, 158)
+found 'оь' in the text
+Key: (330, 105)
+found 'оь' in the text
+No Solutions for equation:  155 * x = -180 (mod 961)
+No Solutions for equation:  155 * x = 261 (mod 961)
+Key: (306, 379)
+found 'аь' in the text
+Key: (229, 217)
+found 'аь' in the text
+Key: (285, 859)
+found 'аь' in the text
+Key: (788, 482)
+found 'аь' in the text
+Key: (647, 761)
+found 'оь' in the text
+Key: (343, 708)
+found 'аь' in the text
+No Solutions for equation:  155 * x = 171 (mod 961)
+No Solutions for equation:  155 * x = 612 (mod 961)
+Key: (382, 503)
+found 'аь' in the text
+Key: (305, 341)
+found 'аь' in the text
+Key: (450, 47)
+found 'аь' in the text
+Key: (953, 631)
+found 'оь' in the text
+Key: (844, 67)
+found 'аь' in the text
+Key: (540, 14)
+found 'аь' in the text
+No Solutions for equation:  155 * x = -276 (mod 961)
+No Solutions for equation:  155 * x = 165 (mod 961)
+Key: (277, 534)
+found 'аь' in the text
+Key: (200, 372)
+found 'аь' in the text
+Key: (437, 309)
+found 'аь' in the text
+Key: (940, 893)
+found 'аь' in the text
+Key: (657, 636)
+found 'оь' in the text
+No Solutions for equation:  155 * x = 441 (mod 961)
+Key: (884, 527)
+found 'аь' in the text
+Key: (503, 312)
+found 'аь' in the text
+Key: (304, 301)
+found 'аь' in the text
+No Solutions for equation:  155 * x = -441 (mod 961)
+Key: (77, 410)
+found 'аь' in the text
+Key: (458, 625)
+found 'аь' in the text
+Key: (32, 106)
+found 'аь' in the text
+Key: (732, 540)
+found 'аь' in the text
+Key: (774, 912)
+found 'аь' in the text
+Key: (656, 767)
+found 'аь' in the text
+Key: (158, 612)
+found 'аь' in the text
+Key: (761, 289)
+found 'аь' in the text
+Key: (655, 723)
+found 'аь' in the text
+Key: (877, 906)
+found 'аь' in the text

@@ -1,0 +1,70 @@
+modifying file
+
+
+
+index for plain text: 0.05602319394919213
+Encryption
+index for cipher text wih key ыч: 0.04499263192518328
+index for cipher text wih key ъйф: 0.03623330404716266
+index for cipher text wih key шуеш: 0.041033153283003
+index for cipher text wih key фнэсг: 0.03548087921330424
+index for cipher text wih key ьбкхчатоясэрйжэиз: 0.03165576214859867
+
+
+
+
+Decryption
+Index of cipher text: 0.03532444245066751
+index forlength blocks 2;0.03709682620655367
+index forlength blocks 3;0.03535245194471151
+index forlength blocks 4;0.039793511667390036
+index forlength blocks 5;0.0354351293936251
+index forlength blocks 6;0.037052368586566846
+index forlength blocks 7;0.03522360497899179
+index forlength blocks 8;0.04491213203766699
+index forlength blocks 9;0.03545025157077616
+index forlength blocks 10;0.03709763005817014
+index forlength blocks 11;0.03506214646542888
+index forlength blocks 12;0.0397888484387092
+index forlength blocks 13;0.03550919719241092
+index forlength blocks 14;0.037093872461702884
+index forlength blocks 15;0.035384371390931875
+index forlength blocks 16;0.05539766505382552
+index forlength blocks 17;0.035524349460576386
+index forlength blocks 18;0.037051140206933175
+index forlength blocks 19;0.03531599104429486
+index forlength blocks 20;0.03979839848540342
+index forlength blocks 21;0.035056696947883076
+index forlength blocks 22;0.03688094981192191
+index forlength blocks 23;0.03526676001305198
+index forlength blocks 24;0.04486292731353409
+index forlength blocks 25;0.03531687664602463
+index forlength blocks 26;0.03731086887465935
+index forlength blocks 27;0.035247591055245484
+index forlength blocks 28;0.03969086727168179
+index forlength blocks 29;0.035584903885058694
+index forlength blocks 30;0.036928328869868694
+index forlength blocks 31;0.03527346532158508
+index forlength blocks 32;0.05582349044633527
+Potential length of key
+{0.05539766505382552: 16, 0.05582349044633527: 32}
+length of key: 16
+List of potential keys
+['девелииоборойдей', 'нолофссчкчщчтнот', 'турущццьпьюьчтуч', 'клилсоофзфцфпклп', 'ежгжмййпвпспкежк']
+
+
+Decrypted first block
+key:  девелииоборойдей
+      поцитнчеделоуьль
+key:  нолофссчкчщчтнот
+      женяйдоьыьвекуву
+key:  турущццьпьюьчтуч
+      баиъдяйчцчэаеоэо
+key:  клилсоофзфцфпклп
+      йирвмзсяюяеинцец
+key:  ежгжмййпвпспкежк
+      онхзсмцдгдкнтыкы
+
+
+We hack Vigenere cipher
+Key: делолисоборотней
